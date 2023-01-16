@@ -64,24 +64,10 @@
 
 ### Ответ
 
-1. Отказоустойчивые кластеры (High-availability clusters, HA, кластеры высокой доступности): Pacemaker, Corosync, Red Hat Cluster Suite, Microsoft Windows Server, Linux - HA, VMware vSphere, Proxmox VE, XenServer
-* Pacemaker
-* VMware vSphere
-* Proxmox VE
-* XenServer
-* Openstack
-2. Кластеры с балансировкой нагрузки (Load balancing clusters): 
-* PostgreSQL
-* nginx
-* HAProxy
-3. Вычислительные кластеры (High performance computing clusters, HPC): 
-* Azure
-* NCSA NT Supercluster
-* Beowulf
-4. Системы распределенных вычислений: 
-* kafka
-* AWS
-* BOINC
+1. Отказоустойчивые кластеры (High-availability clusters, HA, кластеры высокой доступности): Pacemaker, Corosync, Red Hat Cluster Suite, Microsoft Windows Server, Linux - HA, VMware vSphere, Proxmox VE, XenServer, Openstack
+2. Кластеры с балансировкой нагрузки (Load balancing clusters): PostgreSQL, nginx, HAProxy
+3. Вычислительные кластеры (High performance computing clusters, HPC): Beowulf, Azure, NCSA NT Supercluster
+4. Системы распределенных вычислений: Kafka, AWS, BOINC
 
 ---
 
